@@ -62,10 +62,12 @@ databases, regulatory sources, industry events, and unconventional methods
 4. One correction documented: Globion India initially flagged as pass → disqualified after finding Virbac (France) acquisition news from October 2023
 5. No company included based on AI knowledge alone without external source verification
 
-## Hand-Drawn Thought Process
 
-![Thought Process](thought_process.jpg)
 
-## 38-Minute Video Mindmap
+## Thought Process Sketch
 
-![Mindmap](mindmap.jpg)
+![Thought Process](thought_process.)
+
+## Mindmap
+
+![Mindmap](mindmap)
